@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p>
-<img  align=top flex-grow=1 src="https://leetcode.com/u/ernesto9822/" />
+<img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/ernesto9822?theme=dark&font=Nunito&ext=heatmap" />
 </p>
 <!--
 **Ernesto9822/Ernesto9822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
