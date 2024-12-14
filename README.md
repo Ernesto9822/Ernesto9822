@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<p>
+<img  align=top flex-grow=1 src="https://leetcode.com/u/ernesto9822/" />
+</p>
 <!--
 **Ernesto9822/Ernesto9822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
